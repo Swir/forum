@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://devil-torrents.pl/torrentimg/119379.jpg", Nasz najlepszy rok (2017) 720p - Lektor PL
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://devil-torrents.pl/torrentimg/119379.jpg", Nasz najlepszy rok (2017) 720p - Lektor PL
 https://files9a.trt.pl/video/k/k9xbtmz1r1/720_d3e7bmda8l.mp4
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/87485.jpg", Wszyscy moi mężczyźni / Home Again (2017)
 https://files9a.trt.pl/video/4/4bew85f4sy/360_57kpu61jct.mp4
