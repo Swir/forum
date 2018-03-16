@@ -1,1 +1,2 @@
-aktualizacja....
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/6/562.jpg" ,aktualizacja
