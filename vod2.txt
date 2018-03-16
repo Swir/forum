@@ -1,3 +1,84 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/6/562.jpg" ,aktualizacja wtyczki
-asjdkaskldjasjkldjklsa
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://devil-torrents.pl/torrentimg/119379.jpg", Nasz najlepszy rok (2017) 720p - Lektor PL
+https://files9a.trt.pl/video/k/k9xbtmz1r1/720_d3e7bmda8l.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/87485.jpg", Wszyscy moi mężczyźni / Home Again (2017)
+https://files9a.trt.pl/video/4/4bew85f4sy/360_57kpu61jct.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/71352.jpg", Dom wygranych 2017
+https://files31b.trt.pl/video/g/gbo1rqgklt/360_zbdiojwgv7.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/76262.jpg", Alibi com 2017
+https://files9b.trt.pl/video/q/q616v36kyq/480_ikt754ipoj.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/76810.jpg", Laski na Gigancie 2017
+https://files9b.trt.pl/video/6/6pgmwyzsai/360_adhi99ta5p.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/72025.jpg", Miłość aż po ślub 2017
+https://files9b.trt.pl/video/3/3nxmruawgk/360_eiydbrgfd4.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/86724.jpg", Ostra noc 2017
+https://files20b.trt.pl/video/x/xst8mfh3lu/360_ko9lt8hfxj.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/65277.jpg", Death Race 2050 (2017) 
+https://files9b.trt.pl/video/c/csjh79eu13/720_ouxbd68175.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/75553.jpg", Dobrzy gliniarze 2 (2017) 
+https://files31b.trt.pl/video/9/9znzez7csj/720_ootycbj5yx.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/84263.jpg", Na układy nie ma rady (2017)
+https://files31b.trt.pl/video/v/vzr83bhbb5/720_grroxd5cl3.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/82169.jpg", Gdybym była chłopcem 2017
+https://files31b.trt.pl/video/u/ulxit6rl7m/360_x837n4jlyb.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/88221.jpg", Między nami wampirami  2017
+https://files9b.trt.pl/video/6/6vqzqjqm4y/480_62zkhxsx5t.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/88012.jpg", Fernando.2017.
+https://files9b.trt.pl/video/k/kko82a49ri/360_s3toncj29z.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/88349.jpg", Potworna rodzinka.2017
+https://files9b.trt.pl/video/b/bh5fi5fj85/360_edg1ye78nh.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/88161.jpg", Botoks (2017) PL
+https://files9b.trt.pl/video/f/fz23n8y38j/360_xzoqeolr1s.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/84680.jpg", Kingsman - Złoty Krąg (2017)
+https://files31a.trt.pl/video/4/4zstipk7h2/720_3vsc7fandh.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/37/68/723768/7766415.6.jpg", Dzieciak rządzi (2017) DUBBING
+https://files32b.trt.pl/video/j/j9xjy1ry3n/720_jr2ysqr6pb.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/71/10/727110/7800986.6.jpg", My.Little.Pony.The.Movie.2017
+https://files9b.trt.pl/video/q/q7sni634f1/360_9ci31g6369.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://exi-torrentyorgs.pl/torrentimg/86225.jpg", Nasz najlepszy rok (2017) 
+https://files9a.trt.pl/video/k/k9xbtmz1r1/720_d3e7bmda8l.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/90/02/789002/7817491.6.jpg", Niesamowita Jessica James  (2017)
+https://files32b.trt.pl/video/c/cak9q6uhf8/720_sox4e41ir4.mp4
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ekino-tv.pl/static/normal/eq9rcu6efjpg.jpg", Noc Czarownicy (2017) [720p]  [Lektor PL]
+https://files9b.trt.pl/video/j/jsosyxgi7l/360_lzyiq4d6wk.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51wn2IMljzL._SY445_.jpg", (Amityville - Przebudzenie) (2017) 720p
+https://files9a.trt.pl/video/e/evy6yu5577/720_49hpxbxwtq.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/02/72/760272/7806424.6.jpg", Mother (2017) 720p - Lektor PL
+https://files9b.trt.pl/video/b/bcb925cjga/720_x2pv14gfkv.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.efilmy.tv/images/thumbs/big/2bb71e1816dd56d25fea667df0bf1a14.jpg", Life (2017) LEKTOR 720p
+https://files32b.trt.pl/video/m/mi4qz7s3pp/720_76id56nkg5.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.efilmy.tv/images/thumbs/big/753ad281d4a7f37888ca564895699cc2.jpg", Rings (2017) LEKTOR
+https://files26a.trt.pl/video/s/s9kxpb3ydl/720_xu3hzgufze.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://s26.postimg.org/lpfp33x7d/poster_opt.jpg", To przychodzi po zmroku (2017)
+https://files9a.trt.pl/video/s/si2eprg1wn/360_8wakd3y1ki.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://electro-torrent.pl/torrentimg/182602.jpg", Paradoks Cloverfield - The Cloverfield Paradox (2018)
+https://files9a.trt.pl/video/r/rboxm45kzu/360_o41onpv3ep.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/44/09/724409/7826176.6.jpg", The.Vault.2017.PL
+https://files9b.trt.pl/video/j/jtbw3oqugh/360_21pjj7gr79.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/11/14/571114/7784951.3.jpg", TO horror 2017
+https://files9b.trt.pl/video/5/5cha4vov76/360_v9nbp8blvr.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://hostmat.eu/images/95247928882312482413.jpg", Uciekaj! / Get Out (2017)
+https://files32b.trt.pl/video/6/6ud4k4owft/720_snqrzl9kxu.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/58/39/465839/7808432.6.jpg", Śmierć nadejdzie dziś 2017
+https://files9a.trt.pl/video/6/6gy476pmdu/360_pho1qld9rq.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/63/60/756360/7799692.6.jpg", Annabelle Narodziny zła 2017
+https://files9b.trt.pl/video/v/v8pla69zwx/360_eagz7x9tb5.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/73/52/7352/7527053.2.jpg", Linia życia (2017)
+https://files9b.trt.pl/video/l/lu9t44y6iz/720_6id679yug7.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://magicznyswiatksiazki.pl/wp-content/uploads//2018/02/Rytua%C5%82-0.jpg", Rytuał 2017
+https://files9a.trt.pl/video/y/yapaz9zfj6/720_w448rptv2v.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://d-pt.ppstatic.pl/kadry/k/r/1/e6/ea/598dba8000676_o,size,969x565,q,71,h,ab19a3.jpg", Mroczna wieża (2017)
+https://files9b.trt.pl/video/7/7fs9jasb4f/720_uzf4ofg3hh.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.fwcdn.pl/po/24/40/732440/7803791.6.jpg", Krucyfiks (2017)
+https://files9a.trt.pl/video/y/yc6no573z7/360_s7e4yvwldp.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://s2.ifotos.pl/img/46d34040c_qrhxxes.jpg", The.Mummy.2017
+https://files32b.trt.pl/video/z/zvgm82bxml/360_v2a7vu42k6.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.efilmy.tv/images/thumbs/big/0c59654c0148f3561fc6d6d4959fd1bd.jpg", Resident Evil: Vendetta (2017)
+https://files32b.trt.pl/video/b/b9e9nwguxa/720_hjhu2we2g3.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://devil-torrents.pl/torrentimg/121495.jpg", Dom otwarty Horror Thriller 2018
+https://files31b.trt.pl/video/v/vukdgcuqoc/480_2o24ol8qty.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://devil-torrents.pl/torrentimg/115619.jpg", Światła Phoenix Horror Sci-Fi 2017
+https://files31b.trt.pl/video/3/3xobo3bzb9/360_y4hs1aib8w.mp4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://devil-torrents.pl/torrentimg/111761.jpg", Cult Of Chucky Horror 2017
+https://files31b.trt.pl/video/m/mtbn6dw6sn/720_bla97p26al.mp4
