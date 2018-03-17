@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/6/562.jpg" ,(2011)10 lat
+http://207.110.52.49/vod/pol/2011-2015/2012/10.Years.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/2/168.jpg" ,(2013)1000 lat po Ziemi
+http://207.110.52.49/vod/pol/2011-2015/2013/After.Earth.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/4/358.jpg" ,(2012)12 godzin
+http://207.110.52.49/vod/pol/2011-2015/2012/Stolen.2012.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3891.jpg" ,(1976)12 prac Asteriksa
+http://207.110.52.57/vod/pol/1976-1980/1976/Les.Douze.Travaux.D.Asterix.1976.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/10/904.jpg" ,(2013)12 Rund II
+http://207.110.52.49/vod/pol/2011-2015/2013/12.Rounds.Reloaded.2013.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/29/2819.jpg" ,(2004)13 Dzielnica
+http://207.110.52.57/vod/pol/2001-2005/2004/Banlieue.13.2004.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/1/5.jpg" ,(2014)13 Grzechów
+http://207.110.52.49/vod/pol/2011-2015/2014/13.Sins.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2712.jpg" ,(2006)16 przecznic
+http://207.110.52.57/vod/pol/2006-2010/2006/16.Blocks.2006.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/39/3853.jpg" ,(2014)2047 rok smierci
+http://207.110.52.57/vod/pol/2011-2015/2014/2047.Sights.Of.Death.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/1/6.jpg" ,(2014)22 Jump Street
+http://207.110.52.49/vod/pol/2011-2015/2014/22.Jump.Street.2014.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.110.52.34/screenshots/28/2774.jpg" ,(2002)28 dni pózniej
+http://207.110.52.57/vod/pol/2001-2005/2002/28.Days.Later.2002.mp4/index.m3u8
